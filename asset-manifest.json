@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/useReducer-Example/static/css/main.f855e6bc.css",
-    "main.js": "/useReducer-Example/static/js/main.df9e87fa.js",
-    "static/js/453.343ca9ec.chunk.js": "/useReducer-Example/static/js/453.343ca9ec.chunk.js",
+    "main.css": "/useReducer-Example/static/css/main.e6c13ad2.css",
+    "main.js": "/useReducer-Example/static/js/main.6310ec60.js",
+    "static/js/453.a5d7680c.chunk.js": "/useReducer-Example/static/js/453.a5d7680c.chunk.js",
     "index.html": "/useReducer-Example/index.html",
-    "main.f855e6bc.css.map": "/useReducer-Example/static/css/main.f855e6bc.css.map",
-    "main.df9e87fa.js.map": "/useReducer-Example/static/js/main.df9e87fa.js.map",
-    "453.343ca9ec.chunk.js.map": "/useReducer-Example/static/js/453.343ca9ec.chunk.js.map"
+    "main.e6c13ad2.css.map": "/useReducer-Example/static/css/main.e6c13ad2.css.map",
+    "main.6310ec60.js.map": "/useReducer-Example/static/js/main.6310ec60.js.map",
+    "453.a5d7680c.chunk.js.map": "/useReducer-Example/static/js/453.a5d7680c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.df9e87fa.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6310ec60.js"
   ]
 }
